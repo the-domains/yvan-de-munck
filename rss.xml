@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Yvan De Munck]]></title>
         <description><![CDATA[Yvan De Munck]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yvan-de-munck/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 02:52:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 03:14:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yvan-de-munck/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brett King & CFX]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7be6a198-2639-4ad3-92e9-b02b30b06b75.png">]]></description>
+            <link>https://thegrid.ai/yvan-de-munck/brett-king-and-cfx/index.html</link>
+            <guid isPermaLink="false">8f8d2c16-780f-4a74-899c-cbfa97ad77f7</guid>
+            <pubDate>Thu, 18 Aug 2016 03:14:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Loan Bazaar Where You Can Literally Buy Loans for Pennies - FOLIOfn]]></title>
             <description><![CDATA[<article><h1>A Loan Bazaar Where You Can Literally Buy Loans for Pennies - FOLIOfn</h1><p>Welcome to the true marketplace where you can trade debt on any level you like You haven't experienced marketplace lending until you've entered the world of FOLIOfn. Operating as a secondary market for Lending Club and Prosper investors, the platform offers more than just liquidity for holders of 3-5 year consumer debt-backed notes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc969b82e943057dfbe5f2ef0cd51e55f83c8b38.jpg"></article>]]></description>
