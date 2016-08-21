@@ -1,28 +1,40 @@
-name: Yvan De Munck
-favicon: null
-layout_spectrum: 0.75849
-typography_spectrum: 0.7850099131464958
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6456064211670309
+  brandStrength: 0.6349553803447634
+  rhythmicContrast: 0.2505253362469375
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.6349553803447634
   lightness: 0.3415764351375401
-  saturation: 0.6456064211670309
-  rhythmicContrast: 0.2505253362469375
-purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+name: Yvan De Munck
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3494624
+layout_spectrum: 1
