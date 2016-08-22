@@ -1,4 +1,6 @@
-name: Yvan De Munck
+name: >-
+  Yvan De Munck, advisor to companies at the intersection of fintech, startups
+  and gaming/gamification
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.3494624
@@ -29,11 +31,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000000'
+    - '#b95057'
+    - '#dad9de'
+    - '#8f8583'
+    - '#640308'
   brandStrength: 0.75
   lightness: 0.4375
   saturation: 0.5625
